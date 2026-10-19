@@ -1,23 +1,76 @@
-# Yeabsera Yetagesu — Portfolio
+# 👋 Hi, I'm Yeabsera Yetagesu
 
-A responsive, single-page portfolio for showcasing development skills, selected projects, and contact information.
+### Frontend Developer | Computer Science Student
 
-## Built with
-- HTML5
-- CSS3 (responsive layouts and reduced-motion support)
-- Vanilla JavaScript
-- Boxicons
+💻 Turning ideas into seamless digital experiences.
 
-## Run locally
-1. Extract the project folder.
-2. Open `index.html` in a browser, or run a local static server from the project folder (recommended).
+I'm a Computer Science student passionate about frontend development and building responsive, user-friendly web applications. I enjoy transforming ideas into practical digital solutions through clean code, thoughtful design, and continuous learning.
 
-## Before publishing
-- Confirm each project description matches the linked repository. In particular, verify that the Inventory Management card's repository link points to the intended project.
-- Replace generic project graphics with screenshots of the actual running applications where possible.
-- Add live demo links only for deployments that are working and publicly accessible.
-- Confirm the email address and social links are the accounts you want prospective clients and recruiters to use.
-- Check the CV link and update the CV itself before applying.
+## 🌐 My Portfolio
 
-## Contact form behavior
-The portfolio uses a direct `mailto:` link. It opens the visitor's email application; it does not send messages through a backend or store submissions.
+🔗 **Live Website:** 
+
+🐙 **GitHub:** https://github.com/yeab-nilu
+
+## 🛠️ Technologies & Tools
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Programming Languages:** C++, C#
+- **Database:** SQLite
+- **Tools:** Git, GitHub, Visual Studio Code
+- **Deployment:** Vercel
+
+## 🚀 Featured Projects
+
+### 1. Nilu's Restaurant — QR Menu System
+
+A digital restaurant menu that allows customers to browse food and drinks, view prices, and explore menu categories. Includes an administrative dashboard for managing menu items, prices, and categories.
+
+**Technologies:** HTML, CSS, JavaScript, Database
+
+🔗 [View Repository](https://github.com/yeab-nilu/ResturantMenu-QR-)
+
+### 2. Inventory Management System
+
+A desktop application designed to manage inventory, suppliers, and orders. It help organize and manage inventory records.
+
+**Technologies:** C#, SQLite
+
+🔗 [View Repository](https://github.com/yeab-nilu/Sara-s_Short_Cake)
+
+### 3. ID Replacement System
+
+A system designed to support college ID replacement, including lost ID requests, renewals, and corrections.
+
+**Technologies:** C#, SQLite
+
+🔗 [View Repository](https://github.com/yeab-nilu/HilcoeIdReplacemnt)
+
+### 4. Art Gallery
+
+A C++ art gallery application that allows users to explore art pieces and provide simple feedback about the artwork.
+
+**Technologies:** C++
+
+🔗 [View Repository](https://github.com/yeab-nilu/ART-GALLERY)
+
+## 🎯 Current Goals
+
+- Improve my frontend development skills.
+- Build responsive and accessible web applications.
+- Learn modern development tools and frameworks.
+- Develop practical projects that solve real-world problems.
+- Find internship opportunities to gain professional experience.
+
+## 📫 Get in Touch
+
+I'm interested in connecting with developers, collaborating on projects, and exploring internship opportunities.
+
+- **GitHub:** [@yeab-nilu](https://github.com/yeab-nilu)
+- **Portfolio:** [Visit my website]()
+
+---
+
+⭐ Thanks for visiting my profile!
+
+*Building, learning, and improving one project at a time.*
